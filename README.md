@@ -77,6 +77,13 @@ inventory-stock/
    ```bash
    npm start
    ```
+# Screenshots
+<img width="1908" height="1016" alt="image" src="https://github.com/user-attachments/assets/4d4f1ff3-dcc6-42b2-9fda-24c86fbdb97c" />
+<img width="1896" height="1010" alt="image" src="https://github.com/user-attachments/assets/43d14d72-4b48-4a69-8afc-54c3cadff233" />
+
+<img width="1888" height="903" alt="image" src="https://github.com/user-attachments/assets/169cc347-fe0f-4add-8c89-020ec309b37a" />
+
+
 
 ## API Documentation
 
